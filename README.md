@@ -9,7 +9,7 @@ Demo App
 https://photos.sambecker.com
 
 Features
--
+- Looks amazing!
 - Built-in auth
 - Photo upload with EXIF extraction
 - Organize photos by tag
