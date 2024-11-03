@@ -20,6 +20,8 @@ Features
 - Experimental support for AI-generated descriptions
 - Support for Fujifilm simulations
 
+Please work now...
+
 <img src="/readme/og-image-share.png" alt="OG Image Preview" width=600 />
 
 Installation
